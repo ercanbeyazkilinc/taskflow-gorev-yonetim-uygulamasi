@@ -1,7 +1,7 @@
 # Görev Yönetim Uygulaması
 
 ## Proje Amacı
-Bu proje, React ve TypeScript kullanılarak geliştirilmiş teslimlik bir görev yönetim uygulamasıdır. Uygulama üzerinden görev ekleme, listeleme, güncelleme ve silme işlemleri yapılabilir. Tüm veriler tarayıcıdaki `localStorage` alanında saklanır.
+Bu proje, React ve TypeScript kullanılarak geliştirilmiş bir görev yönetim uygulamasıdır. Uygulama üzerinden görev ekleme, listeleme, güncelleme ve silme işlemleri yapılabilir. Tüm veriler tarayıcıdaki `localStorage` alanında saklanır.
 
 ## Kullanılan Teknolojiler
 - Vite
