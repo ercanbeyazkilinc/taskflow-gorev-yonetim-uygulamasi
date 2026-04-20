@@ -1,4 +1,4 @@
-# Görev Yönetim Uygulaması
+# TaskFlow | Görev ve Öncelik Takibi
 
 ## Proje Amacı
 Bu proje, React ve TypeScript kullanılarak geliştirilmiş bir görev yönetim uygulamasıdır. Uygulama üzerinden görev ekleme, listeleme, güncelleme ve silme işlemleri yapılabilir. Tüm veriler tarayıcıdaki `localStorage` alanında saklanır.
@@ -78,3 +78,7 @@ src
 
 ## localStorage Anahtarı
 Uygulama görevleri `task-manager-items` anahtarı ile saklanır.
+
+## Bağlantılar
+GitHub Repo: https://github.com/ercanbeyazkilinc/taskflow-gorev-yonetim-uygulamasi
+Canlı Demo: https://taskflow-gorev-takip.netlify.app
