@@ -50,12 +50,6 @@ npm run build
 npm run preview
 ```
 
-## Netlify Deploy İçin Kısa Not
-- Projeyi GitHub'a yükledikten sonra Netlify üzerinden yeni site oluşturabilirsiniz.
-- Build command: `npm run build`
-- Publish directory: `dist`
-- Netlify, Vite projelerinde build sonrası `dist` klasörünü yayınlar.
-
 ## Klasör Yapısı Özeti
 ```text
 src
